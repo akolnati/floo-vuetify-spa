@@ -2,9 +2,9 @@
   {{HTML}}
 </template>
 
-<script>
+<script>{{COMPONENTS_IMPORTS}}
 export default {
-  name: '{{NAME}}'
+  name: '{{NAME}}'{{COMPONENTS_DECLARATIONS}}
 }
 </script>
 
