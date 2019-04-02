@@ -1,1 +1,1 @@
-"# floo-vuetify-scaffold" 
+Vuetify based Single Page Application scaffold for Floo
