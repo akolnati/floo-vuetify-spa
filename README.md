@@ -1,6 +1,6 @@
 # {{PROJECT_TITLE}}
 
-> Floo Generated Vuetify based SPA universal Application
+> Floo Generated Vue + Vuetify based Single Page Application
 
 ## Build Setup
 
